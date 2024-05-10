@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá, sou o Pablo Yuri! 👋
 
-<!--
-**pylopes/pylopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Entre em contato comigo 📬
 
-Here are some ideas to get you started:
+Sinta-se à vontade para entrar em contato comigo. Estou sempre aberto para fazer novos contatos e colaborações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@pylopes/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pylopes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pylopes/)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pylopes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pylopes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
